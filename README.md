@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Craftler4579 (Ignore the name..)
+- 👋 Hi, I’m Craft (Ignore my username..)
 - 👀 I’m interested in Twenty One Pilots, coding, video gaming
 - 🌱 I’m currently learning Javascript and Python. (But I know how to read code oddly enough)
 - 💞️ I’m looking to collaborate on fixing bots (soon)
